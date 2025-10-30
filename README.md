@@ -1,2 +1,2 @@
 # Qurier-service-system-
-This is qurier  service system for qurier boy.
+This is qurier  service system for qurier .
